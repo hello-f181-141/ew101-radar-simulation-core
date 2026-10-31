@@ -1,0 +1,11 @@
+build/
+bin/
+lib/
+.vs/
+out/
+*.sln
+*.vcxproj*
+*.user
+*.exe
+.idea/
+.vscode/
